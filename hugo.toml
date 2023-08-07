@@ -10,7 +10,7 @@ paginate = "10" # Number of posts per page
   avatar = "img/avatar.png"
 
 [Params]
-  description = "Mobile charts blog" # Description of your site
+  description = "A blog about charts" # Description of your site
   opengraph = true
   twitter_cards = false
   readmore = false # Show "Read more" button in list if true
@@ -20,7 +20,7 @@ paginate = "10" # Number of posts per page
   mainSections = ["post", "subc"]
 
 [Params.logo]
-  subtitle = "Mobile charts blog" # Logo subtitle
+  subtitle = "A blog about charts" # Logo subtitle
 
 [Params.style.vars]
   highlightColor = "#720443"
