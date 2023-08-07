@@ -1,0 +1,35 @@
+---
+title: Width Test
+description: Desc
+date: "2023-08-05T18:43:25+08:00"
+thumbnail: ""
+categories:
+  - "Mobile"
+tags:
+  - "Mobile Hot 20"
+---
+#1 Samsung Galaxy A54
+<!--more-->
+
+|This Week|Last Week|Weeks on Chart|Device|Peak|Point|Total Last Week|Total|
+|:----:|:----:|:----:|----|:----:|:----:|:----:|:----:|
+|1|2|20|Samsung Galaxy A54|1|256|5422|5678|
+|2|3|26|Samsung Galaxy S23 Ultra|1|236|6236|6472|
+|3|4|23|Xiaomi Redmi Note 12|2|200|3846|4046|
+|4|5|34|Xiaomi Redmi Note 12 Pro|1|190|4321|4511|
+|5|10|6|Xiaomi Redmi 12|5|171|459|630|
+|6|6|20|Samsung Galaxy A34|2|160|2893|3053|
+|7|7|47|Apple iPhone 14 Pro Max|1|156|4253|4409|
+|8|8|25|Apple iPhone 11|7|146|2381|2527|
+|9|1|3|Nothing Phone (2)|1|143|464|607|
+|10|9|16|Samsung Galaxy A14|9|139|2003|2142|
+|11|11|71|Apple iPhone X|4|136|3507|3643|
+|12|0|1|Realme C53|12|135|0|135|
+|13|15|66|Apple iPhone XR|3|126|3608|3734|
+|14|13|26|Samsung Galaxy S23|2|126|3654|3780|
+|15|16|28|Samsung Galaxy S21 FE 5G|5|115|422|537|
+|16|0|1|Samsung Galaxy Tab S9|16|87|0|87|
+|17|17|12|Xiaomi Poco F5|1|80|1998|2078|
+|18|0|1|Samsung Galaxy Z Flip5|18|66|0|66|
+|19|19|31|Samsung Galaxy S10|10|57|927|984|
+|20|0|1|Samsung Galaxy Watch6 Classic|20|49|0|49|
