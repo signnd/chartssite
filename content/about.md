@@ -4,7 +4,7 @@ authorbox: false
 sidebar: false
 pager: false
 menu: main
-weight: 3
+weight: 1
 ---
 
 ## About this site
