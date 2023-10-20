@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on charts-signnd</title>
+    <link>http://example.org/categories/</link>
+    <description>Recent content in Categories on charts-signnd</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 19 Oct 2023 19:00:00 +0800</lastBuildDate><atom:link href="http://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Phoenix Modern Rock Chart</title>
+      <link>http://example.org/categories/phoenix-modern-rock-chart/</link>
+      <pubDate>Thu, 19 Oct 2023 19:00:00 +0800</pubDate>
+      
+      <guid>http://example.org/categories/phoenix-modern-rock-chart/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Indo 19</title>
+      <link>http://example.org/categories/indo-19/</link>
+      <pubDate>Tue, 17 Oct 2023 19:20:00 +0800</pubDate>
+      
+      <guid>http://example.org/categories/indo-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New Release</title>
+      <link>http://example.org/categories/new-release/</link>
+      <pubDate>Mon, 16 Oct 2023 19:30:00 +0800</pubDate>
+      
+      <guid>http://example.org/categories/new-release/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mobile Hot 20</title>
+      <link>http://example.org/categories/mobile-hot-20/</link>
+      <pubDate>Mon, 16 Oct 2023 18:00:00 +0800</pubDate>
+      
+      <guid>http://example.org/categories/mobile-hot-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dance Top 10</title>
+      <link>http://example.org/categories/dance-top-10/</link>
+      <pubDate>Sun, 15 Oct 2023 21:30:00 +0800</pubDate>
+      
+      <guid>http://example.org/categories/dance-top-10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Asian Top 10</title>
+      <link>http://example.org/categories/asian-top-10/</link>
+      <pubDate>Sun, 15 Oct 2023 19:15:00 +0800</pubDate>
+      
+      <guid>http://example.org/categories/asian-top-10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R&amp;B Top 10</title>
+      <link>http://example.org/categories/rb-top-10/</link>
+      <pubDate>Sat, 14 Oct 2023 21:45:00 +0800</pubDate>
+      
+      <guid>http://example.org/categories/rb-top-10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Phoenix Top 40</title>
+      <link>http://example.org/categories/phoenix-top-40/</link>
+      <pubDate>Sat, 14 Oct 2023 20:00:00 +0800</pubDate>
+      
+      <guid>http://example.org/categories/phoenix-top-40/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mobile Top 40</title>
+      <link>http://example.org/categories/mobile-top-40/</link>
+      <pubDate>Sat, 14 Oct 2023 19:00:00 +0800</pubDate>
+      
+      <guid>http://example.org/categories/mobile-top-40/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Phoenix Request Box</title>
+      <link>http://example.org/categories/phoenix-request-box/</link>
+      <pubDate>Fri, 13 Oct 2023 19:15:00 +0800</pubDate>
+      
+      <guid>http://example.org/categories/phoenix-request-box/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
