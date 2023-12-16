@@ -17,7 +17,7 @@ paginate = "10" # Number of posts per page
   authorbox = true
   pager = true
   post_meta = ["date", "categories"] # Order of post meta information
-  mainSections = ["mobile", "phoenix"]
+  mainSections = ["mobile-2023", "phoenix-2023"]
 
 [Params.logo]
   subtitle = "A blog about charts" # Logo subtitle
