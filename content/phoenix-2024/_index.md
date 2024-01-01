@@ -1,5 +1,6 @@
 ---
-title: Phoenix 2023
+title: Phoenix
 description: Chart from phoenix
+menu: main
 weight: 2
 ---
